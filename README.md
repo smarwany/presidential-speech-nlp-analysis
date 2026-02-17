@@ -68,9 +68,9 @@ https://www.kaggle.com/datasets/littleotter/united-states-presidential-speeches
 
 ## Tools Used
 
-- Python (or R — replace with what you used)
+- Python 
 - Pandas
-- NLTK / spaCy / tidytext (replace with actual library used)
+- NLTK  / tidytext
 - Matplotlib / ggplot2
 - Text preprocessing techniques
 - N-gram extraction
